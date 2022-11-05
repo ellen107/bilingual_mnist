@@ -4,3 +4,6 @@ The data is in the bilingual data file. The data set is create from combining th
 
 The images were downloaded and sorted into the corresponding value folders using sorting.py(chinese mnist), sorting.py(mnist) and transfer.py.
 Run the py files in the terminal.
+
+
+Code based off of https://www.tensorflow.org/tutorials/images/classification 
